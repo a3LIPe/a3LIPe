@@ -1,8 +1,5 @@
 ### Hi there! I'm Matheus 👋
-* I've been seriously learning programming since 12/2023
-* I'm a programming student
-* I want to become the best professional i could be in my field
-* Intersting in back-end
+* Programming student at [Alura](https://www.alura.com.br/?utm_term=alura%20cursos&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Institucional&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=386166608&hsa_grp=21666755648&hsa_ad=609948692827&hsa_src=g&hsa_tgt=kwd-151798006408&hsa_kw=alura%20cursos&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQiAqsitBhDlARIsAGMR1Rhx8_Hz47JOJKqdrZk05oiSWJsh1pkgCVb8f9lUifnB9mSXwaV-ozwaAvhrEALw_wcB).
 
 ---
 
